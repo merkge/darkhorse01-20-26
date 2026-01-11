@@ -1,4 +1,4 @@
-name: Deploy to Awardspace
+name: Deploy Website
 on:
   push:
     branches:
@@ -7,15 +7,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Sync files to Awardspace
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          port: 221
-          server-dir: /home/www/darkhorseministries.mypressonline.com/
-          local-dir: ./
+    - name: Get latest code
+      uses: actions/checkout@v3
+    - name: Sync files to Awardspace
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        server-port: 21
