@@ -1,21 +1,55 @@
+/* 1. THE LOOK (Keeps your background and horse image) */
+body {
+  background-color: #b0c4de;
+  background-image: url('smallhorse.png');
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin: 0; 
+  font-family: sans-serif;
+}
 
+/* 2. THE CONTENT WRAPPER (Phones: 15% gaps on both sides) */
+.content-wrapper {
+  width: 70%;           
+  margin: 0 auto;       
+  padding: 20px 0;
+}
 
+/* 3. BIG SCREEN LOGIC (Chromebook/Win 11: 350px left margin) */
+@media screen and (min-width: 1000px) {
+  .content-wrapper {
+    max-width: 900px;
+    margin-left: 350px !important; 
+    margin-right: auto;
+    padding-left: 0;
+  }
+}
 
-h1{font-style:oblique; text-align:center; color:green;}
-h2{text-align:center;}
-h3{text-align:center;}
-ul{list-style-type:none;
-   margin:0;
-   padding:0;}
-!< a{display:block;
-  width:500px;
-  background-color:#dddddd;}
-body{background-color:#b0c4de;
-     background-image:url('smallhorse.png');
-     background-repeat:no-repeat;
-     
-     background-position:right top;
-     margin-right:200px;}
-p{text-indent:30px;}
+/* 4. LINKS (Buttons with Hover/Visited) */
+a {
+  display: block;
+  max-width: 500px;
+  width: 100%;           
+  background-color: #dddddd;
+  margin: 12px 0;
+  padding: 15px;
+  text-decoration: none;
+  color: #000000;        
+  border-radius: 4px;
+  transition: 0.3s;      
+}
 
+a:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+a:visited {
+  color: #551A8B !important; 
+}
+
+/* 5. TEXT STYLE */
+h1 { font-style: oblique; text-align: center; color: green; }
+h2, h3 { text-align: center; }
+p { text-indent: 30px; line-height: 1.6; }
 
