@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Page Title</title>
+
+    <style>
+        /* INTERNAL CSS HOUSING */
+        body {
+            background-color: #003366; /* Your signature Blue */
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.7;
+            padding: 5%; /* Flexible padding for mobile */
+            margin: 0;
+            font-size: 18px; /* Base size for desktop */
+        }
+
+        /* THE MEDIA QUERY: Changes size ONLY on mobile */
+        @media screen and (max-width: 768px) {
+            body {
+                font-size: 22px; /* Larger text for the Pixel Pro */
+                padding: 20px;
+            }
+        }
+
+        h1, h2 {
+            color: #add8e6; /* Light Blue for headers */
+            line-height: 1.2;
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            font-size: 0.9em;
+        }
+
+        a {
+            color: #ffcc00; /* Gold links - easy to see on blue */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <img src="smallhorse.png" style="float: right; width: 80px; padding: 10px;" alt="Horse">
+
+    <div class="page-container">
+    <h1>DarkHorse Ministries</h1>
+    <h2>Story Title</h2>
+    <p>Paste your specific page text here. This area will now be 
+       perfectly sized for mobile reading.</p>
+    <div class="footer">
+        <p><a href="index.html">Back to Home</a></p>
+        <p>&copy; 2026 Your Name. The Music is always playing.</p>
+    </div>
+
+</body>
+</html>

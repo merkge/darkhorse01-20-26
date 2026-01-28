@@ -1,0 +1,204 @@
+/* 1. THE BASE - LIGHT BLUE ERA */
+body {
+    background-color: #add8e6; /* The Light Blue you decided to keep */
+    background-image: none !important; /* This evicts the Ghost Horse */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+/* 2. THE CONTENT CONTAINER */
+.page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #add8e6; /* Matches body for a seamless look */
+    min-height: 100vh;
+}
+
+/* 3. HEADINGS - Professional Navy */
+h1, h2, h3 {
+    color: #1e3a8a;
+    text-align: center;
+    font-style: oblique;
+    margin-bottom: 1em;
+}
+
+/* 4. THE BUTTONS (The "Index Style" Fix) */
+/* This makes every story button Gray with Blue Underlined text */
+.menu-link, .back-to-home, a.menu-link {
+    display: block;
+    background-color: #dddddd !important; /* Light Gray Button */
+    color: #0000ee !important;           /* Classic Blue Link Text */
+    text-decoration: underline !important; /* Underlined like Index */
+    
+    max-width: 600px;
+    width: 90%;
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1em;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Hover effect for buttons */
+.menu-link:hover, .back-to-home:hover {
+    background-color: #cccccc !important;
+}
+
+/* 5. MOBILE FIXES */
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 1.2em; 
+    }
+    .menu-link {
+        width: 95%;
+        font-size: 1em;
+    }
+}
+
+/* 6. TEXT COLORS & ALIGNMENT */
+p {
+    color: #0f172a; /* Deep Navy text for best readability on Light Blue */
+   
+}
+
+/* THE FINAL WORD ON BUTTONS */
+.menu-link, .back-to-home {
+    display: block !important;
+    clear: both !important;      /* Forces one per row on laptop */
+    width: 90% !important;
+    max-width: 600px !important;
+    margin: 15px auto !important;
+    background-color: #dddddd !important; /* Light Gray */
+    color: #0000ee !important;           /* Medium Blue */
+    text-decoration: underline !important;
+    padding: 15px !important;
+    border-radius: 8px !important;
+    text-align: center !important;
+}
+
+/* LEVEL 2.5: SONG OR QUOTE ATTRIBUTION */
+.song-credit {
+    display: block;
+    text-align: right;
+    font-size: 0.9rem;  /* Slightly larger for Samsung readability */
+    margin-top: 10px;   /* The spacing you liked */
+    font-style: normal; /* Stands out against the italic lyrics */
+    color: #1e3a8a;     /* Professional Navy */
+    font-weight: bold;
+}
+
+/* --- DARKHORSE MASTER STYLES --- */
+
+/* Standard Paragraph Indents */
+p {
+    text-indent: 30px;
+    margin-bottom: 15px;
+}
+
+/* Dream text: Bold with side margins, no paragraph indent */
+.dream-block {
+    margin: 20px 30px;
+    font-weight: bold;
+    line-height: 1.6;
+    text-indent: 0; 
+}
+
+/* Dream Block for Total CSS*/
+.dream-block {
+    margin: 20px 30px;
+    font-weight: bold;
+    line-height: 1.6;
+    text-indent: 30px;              /* This adds your standard indent */
+    border-left: 3px solid #1e3a8a;   /* This adds the vertical navy bar */
+    padding-left: 15px;             /* This adds space so text doesn't hit the bar */
+}
+
+/* Song text: Centered with wider side margins, no indent */
+/*.song-inset {
+    text-align: center;
+    margin: 30px 60px;
+    font-style: italic;
+    line-height: 1.8;
+    text-indent: 0;
+}*/
+
+/* Song text: Centered with wider side margins, no indent */
+/*.song-inset {
+    text-align: center;
+    margin: 30px auto;
+    width: 80%;
+    font-style: italic;
+    line-height: 1.8;
+    text-indent: 0;
+}
+*/
+
+/* Song text: Centered with wider side margins, no indent */
+.song-inset {
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 80%;
+    font-style: italic;
+    line-height: 1.8;
+    text-indent: 0 !important; /* Forces the 30px paragraph indent to disappear */
+}
+
+/* Song credit: Smaller and centered below the song */
+.song-credit {
+    text-indent: 0;
+    text-align: center;
+    font-size: 0.9em;
+    font-style: normal;
+    margin-top: 10px;
+    color: magenta;
+}
+
+/* Reset indents for technical layout pieces */
+h1, h2, h3, .back-link, .footer p, .interpretation h3 {
+    text-indent: 0;
+}
+
+/* THE FOOTER - Standard across all pages */
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    border-top: 1px solid #777;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer p {
+    margin: 10px 0;
+}
+
+.footer-nav a {
+    margin: 0 10px;
+    text-decoration: underline;
+    color: #0000ee;
+}
+
+/* THE SMALL HORSE - Top Right Float */
+.small-horse {
+    float: right !important;
+    width: 80px !important;    /* This makes it small */
+    height: auto;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.credit {
+    font-size: 0.45em;
+    font-style: italic;
+    margin-top: 10px;
+    display: block;
+    text-align: right;    
+}
