@@ -1,0 +1,200 @@
+/* --- THE GLOBAL MASTER ERA --- */
+body {
+    background-color: #add8e6; /* Light Blue Era Background */
+    color: #4682b4;           /* MASTER STEEL BLUE TEXT */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+
+
+/* 2. THE CONTENT CONTAINER */
+.page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #add8e6; /* Matches body for a seamless look */
+    min-height: 100vh;
+}
+
+/* 3. HEADINGS - Professional Navy */
+h1, h2, h3 {
+    color: #1e3a8a;
+    text-align: center;
+    font-style: oblique;
+    margin-bottom: 1em;
+}
+
+/* --- DARKHORSE MASTER STYLES --- */
+
+/* Standard Paragraph Indents */
+p {
+    text-indent: 30px;
+    margin-bottom: 15px;
+}
+
+h1 { 
+    color: #4682b4 !important; 
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* 1. THE MENU BUTTONS (Used on Menu Pages) */
+.menu-link {
+    display: block !important;
+    background-color: #dddddd !important; 
+    color: #4682b4 !important;            
+    max-width: 600px !important;
+    width: 90% !important;
+    margin: 15px auto !important;
+    padding: 15px !important;
+    border-radius: 8px !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
+}
+.menu-link:hover {
+    background-color: #4682b4 !important; 
+    color: white !important;
+}
+
+
+
+
+/* 3. MOBILE FIXES */
+@media only screen and (max-width: 768px) {
+    body { font-size: 1.2em; }
+    .menu-link { width: 95%; font-size: 1em; }
+}
+
+/* 4. SPECIAL TEXT (Quotes, Songs, Dreams) */
+.quote, .quote-credit, .song-text, .song-inset, .song-credit, .dream-block {
+    width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-indent: 0 !important;
+    display: block;
+}
+
+.quote, .quote-credit, .song-text, .song-inset {
+    color: purple !important;
+    font-style: italic !important;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.dream-block {
+    font-weight: bold !important;
+    font-style: normal !important;
+    border-left: 4px solid #1e3a8a; 
+    padding-left: 20px;
+    color: #0f172a;
+    text-align: left;
+}
+
+.small-horse {
+    float: right !important;
+    width: 80px !important;
+    height: auto;
+    margin-left: 15px;
+    display: block;
+}
+
+/* 2. THE FOOTER LINKS (Balanced Story Navigation) */
+.footer-nav a {
+    display: inline-block !important; 
+    margin: 2px 0 !important;       /* Tightens the gap around the <br> */
+    color: #4682b4 !important;    
+    font-weight: bold !important;
+    text-align: center !important;
+    text-decoration: underline !important;
+}
+
+/* 5. THE MASTER FOOTER */
+.footer {
+    text-align: center !important;
+    padding: 30px 0 !important;
+    clear: both !important;
+    width: 100% !important;
+    border-top: 1px solid #4682b4;  
+    margin-top: 40px;
+}
+
+/* Creating the "Hallway" separation */
+.footer-util {
+    display: block !important;
+    margin-top: 25px !important;    /* Pushes About/Contact down away from Home */
+}
+
+.footer-util a {
+    display: inline !important; 
+    margin: 0 8px !important;
+    color: #4682b4 !important;
+}
+
+.copyright {
+    display: block !important;
+    margin-top: 20px !important;
+    margin-left: -25px; /* pulls left slightly */     
+    color: #4682b4 !important;
+    font-size: 0.9rem;
+}
+
+/* 7. THE TOP BACK-LINK (Left Aligned) */
+.back-link {
+    display: block !important;
+    text-align: left !important;   /* Moves text back to the left */
+    margin: 10px 0 !important;     /* Keeps the vertical breathing room */
+    color: #4682b4 !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
+    text-indent: 0 !important;     /* Ensures no paragraph-style indent */
+    font-size: 0.7rem !important;   /* This makes it roughly half the visual weight */    
+}
+
+/* Styling for the Lone Ranger Joke / Play Format */
+.play-intro-clean {
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fdfdfd;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    max-width: 90%;
+}
+
+.scene-setting {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.play-box {
+    padding-left: 20px;
+}
+
+.dialogue-row {
+    margin-bottom: 12px;
+}
+
+.name {
+    font-weight: bold;
+    color: #00008b; /* Using that deep Dark Blue you like */
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.speech {
+    color: #333;
+}
+
+.spirit-menu { 
+    /* Styles for the Spiritual list */
+    background-color: #f0f8ff; 
+}
+
+.dream-menu { 
+    /* Styles for the Dreams list */
+    background-color: #e6e6fa; 
