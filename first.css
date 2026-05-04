@@ -198,3 +198,8 @@ h1 {
 .dream-menu { 
     /* Styles for the Dreams list */
     background-color: #e6e6fa; 
+
+.spark {
+    color: gold;
+    font-weight: bold;
+}
