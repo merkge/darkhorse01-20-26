@@ -65,6 +65,7 @@ Allahu Akbar!
 Peace, Love & Gnosis,
 
 See also: [Holy Pentecostal Baptism of Fire!](/pentecostal-baptism-of-fire.html)
+
 See also: [Before Abraham Was, I AM](/before-abe-was-i-am.html)
 
 © 2026 DarkHorse Ministries.
