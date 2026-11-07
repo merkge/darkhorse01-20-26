@@ -40,6 +40,22 @@ I only made it a few verses into the prayer before I exploded. I was struck dead
 
 Whether through the Qur'an's memory of the Covenant of Alastu, the modern dictation of A Course in Miracles, or a direct gnostic awakening by the Spirit, the truth remains unchanged: we belong to the Eternal, and we were loved before time began.
 
+I had a friend, a Jewish man about twenty years older than me, who has since passed away. I don't know whether he practiced Judaism at all. I do know he knew nothing about traditional Christianity. Everything he knew about Christianity came from *A Course in Miracles*, and for twenty-five years he met every week with a group of its students at somebody's house.
+
+He was a really nice guy, and some engineers invited him on a vacation to Istanbul and asked him to be their driver. He went with his wife and a few friends. On his day off, they visited the Blue Mosque, an operating mosque across the square from the Hagia Sophia, which is now a museum.
+
+As soon as he walked in, an inner presence let him know he was supposed to sit down with his back to the partition between the men's and women's sections. He literally knew every motion his body was supposed to make. He sat there for a while in an incredibly vast inner space. Then he heard a noise within the presence and said, "Who's there?"
+
+The voice said, "Muhammad. Don't worry, you will not be harmed."
+
+After a while he asked, "How do you find peace?"
+
+The voice said, "Not in the things of this world."
+
+After another while he asked, "What do you think about Jesus?" He saw a cartoon-like vision, in color, of Muhammad and Jesus walking away arm in arm and looking back. A voice with a Texas accent said, "You mean my Bud?"
+
+He would not share this with other people, because he didn't want them to think he was nutty. But he knew about my own spiritual experiences, so he confided it to me.
+
 --- Abd'ullah
 
 Allahu Akbar!
