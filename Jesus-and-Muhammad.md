@@ -4,7 +4,9 @@ title: "Jesus & Muhammad - Brothers with Us in Eternity"
 date: 2026-07-18
 categories: essays
 ---
-I testify that: "There is no God but He Who is God, and that Muhammad is His Messenger!"
+## Jesus & Muhammad - Brothers with Us in Eternity
+
+"I testify that: "There is no God but He Who is God, and that Muhammad is His Messenger!"
 
 This is the Shahada, the Islamic testimony of faith, which I took in Arabic at al-Noor mosque in Houston during Ramadan of 2008. It had taken me ten years since beginning on the path of Sufism to make the commitment to Islam. The imam then gave me my Muslim name of Abd'ullah, which translates to Slave of God, a designation historically used for Sufis.
 
