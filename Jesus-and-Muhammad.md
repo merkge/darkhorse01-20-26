@@ -65,4 +65,5 @@ Allahu Akbar!
 Peace, Love & Gnosis,
 
 See also: [Before Abraham Was, I AM](/before-abe-was-i-am.html)
+
 © 2026 DarkHorse Ministries.
