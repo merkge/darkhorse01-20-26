@@ -24,7 +24,9 @@ Years earlier, around 2000, I had done the same concerning my abusive alcoholic 
 
 The day after experiencing this grief concerning my grandfather's life, I found myself wondering whether those of us that are living, have the ability to heal the souls of those that have passed on, who for whatever reason, were unable to reach and release that grief within themselves while alive.
 
-Can we heal the souls of our fathers?
+So, somehow 'Healing the Sins of Our Fathers' became, for me:'
+
+Can we heal the 'souls' of our fathers?
 
 For the eternal soul, see also: [Laughing All the Way to the Church](/calling.html) 
 
