@@ -35,6 +35,7 @@ For being w God in Pre-eternity, see also: [Before Abraham Was, I AM](/before-ab
 For my reincarnation, see also: ["I Am Coming Back to Kriya Yoga"](/i-am-coming-back-to-kriya-yoga.html)  
 
 Peace, Love & Gnosis,
+
 DarkHorse
 
 ©2026 DarkHouse Ministries. 
