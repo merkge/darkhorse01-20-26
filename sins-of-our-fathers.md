@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Healing the Sins of Our Fathers?"
+section_url: /spiritual-teachings.html
 date: 2026-11-07
 categories: essays
 ---

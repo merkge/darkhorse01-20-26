@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jesus & Muhammad - Brothers with Us in Eternity"
+section_url: /spiritual-teachings.html
 date: 2026-07-18
 categories: essays
 ---
