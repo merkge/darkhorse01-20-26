@@ -19,7 +19,7 @@
     
     <footer class="footer">
         <div class="footer-nav">
-            <a href="spiritual-experiences.html">Spiritual Experiences</a><br>
+            <a href="{{ page.section_url | default: '/spiritual-experiences.html' | relative_url }}">{{ page.section_name | default: 'Spiritual Experiences' }}</a><br>
             <a href="index.html">Home</a>
         </div>
 
