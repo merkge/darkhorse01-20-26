@@ -19,7 +19,8 @@
     
     <footer class="footer">
         <div class="footer-nav">
-            <a href="{{ page.section_url | default: '/spiritual-experiences.html' | relative_url }}">{{ page.section_name | default: 'Spiritual Experiences' }}</a><br>
+            {% assign sec = site.data.sections[page.section] %}
+            <href="{{ sec.url | default: page.section_url | default: '/spiritual-experiences.html'<br>
             <a href="index.html">Home</a>
         </div>
 
