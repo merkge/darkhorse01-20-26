@@ -20,7 +20,7 @@
     <footer class="footer">
         <div class="footer-nav">
             {% assign sec = site.data.sections[page.section] %}
-            <href="{{ sec.url | default: page.section_url | default: '/spiritual-experiences.html'<br>
+             <href="{{ sec.url | default: page.section_url | default: '/spiritual-experiences.html' | relative_url }}">{{ sec.name | default: page.section_name | default: 'Spiritual Experiences' }}</href>a><br>
             <a href="index.html">Home</a>
         </div>
 
