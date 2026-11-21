@@ -12,19 +12,25 @@
     <img src="smallhorse.png" class="small-horse" alt="Horse">
     <h1>DarkHorse Ministries</h1> 
 
-     {% comment %}
+    {% comment %}
       BACK LINK (top of every page)
       Dream pages have "section_url: /dreams.html" in their front matter, so they
-      get "Back to Dreams". Every other page gets "Back to Spiritual Experiences".
-      To add a new section with its own back link, add another elsif below.
+      get "Back to Dreams".
+      Various spiritual teachings pages have "section_url: /spiritual-teachings.html"
+      in their front matter, so they get "Back to Various Spiritual Teachings".
+      Every other page gets "Back to Spiritual Experiences".
+      To add another section, copy one of the link lines below and add a matching
+      else-if line above it.
     {% endcomment %}
-    
-        {% if page.section_url == '/dreams.html' %}
+
+    {% if page.section_url == '/dreams.html' %}
     <a href="/dreams.html" class="back-link">&larr; Back to Dreams</a>
+    {% elsif page.section_url == '/spiritual-teachings.html' %}
+    <a href="/spiritual-teachings.html" class="back-link">&larr; Back to Various Spiritual Teachings</a>
     {% else %}
     <a href="spiritual-experiences.html" class="back-link">&larr; Back to Spiritual Experiences</a>
     {% endif %}
-   
+
     <hr>
     
     {{ content }}
