@@ -1,0 +1,34 @@
+---
+layout: post
+title: "A Simple Harmonic Cosmic Christ"
+section_url: /spiritual-physics.html
+section_name: Spiritual Interpretations of Physics 
+date: 2026-05-25
+categories: essays
+---
+## A Simple Harmonic Cosmic Christ
+
+A number of years ago, I had a wonderful experience while asleep. It was a vivid and beautiful archetypal color dream clip:
+
+Jesus is rising up out of, and descending back into the water, three times. The movement had a seamlessly, smooth natural rhythm as well as a very sacred, auspicious feeling and music that accompanied it. The color of Christ was a brilliant shimmering 'spring' green.
+
+In Sufism, green is the color of the realization of God. I later recognized that this motion was in fact what is known in the field of physics as Simple Harmonic Motion (SHM). SHM is characterized by maximum speed at the midpoint of travel and maximum acceleration (i.e., maximum change of speed) at the endpoints. In the physics lab, this is the up-and-down motion of an object suspended by a simple spring.
+
+This oscillation or bobbing motion just happens to be the single most common dynamic pattern found in the natural world—the archetypal template of all movement in the cosmos. It is the origin of all sound, the very chord struck at the Big Bang. It is the AUM that emerges from the primordial Silence itself. In the words of the New Testament, it is the first Begotten of the Father, (and before time began).
+
+This dream was therefore a revelation of the Cosmic Christ alluded to in the gnostic Gospel of Thomas when Jesus declared "cleave a rock and I am there." This Cosmic Christ belongs to all of Creation and all religions. Indeed, Creation is literally 'shot through' with this universal and eternal Christ. This has been the true message of many great mystics and teachers, both ancient and modern, like Valentinus, Meister Eckhart, Teillhard de Chardin, Bede Griffiths, Raimon Panikkar, Matthew Fox, and most recently, perhaps, Richard Rohr.
+
+SHM has another very interesting feature. Suppose that an object is located on a two-dimensional plane and is moving in a circle at a constant speed. This is referred to in physics as Uniform Circular Motion (UCM). Then suppose that a light illuminates the object from the side to form a shadow projection of this circular path onto a one-dimensional line on a wall. We have then effectively collapsed the information contained in two dimensions into a single dimension. It turns out that the resulting one-dimensional motion will then be an SHM oscillation! In other words, the SHM oscillation can be derived from a constant-speed or uniform circular motion in a higher dimension! So the most basic vibrational motion whereby this universe is constituted, has a representation in a higher dimension. Welcome to the Twilight Zone!
+
+By analogy, we can then speak of our humanly perceived natural world as the shadow projection of a higher, or Spiritual world that has as its archetypal pattern something equivalent to UCM. I remember as a little boy that my stepfather held up a coffee cup and ran his finger continuously around the rim. He told me: "This is infinity and eternity—no beginning and no end."
+
+And so it seems that: this hierarchal relationship that exists in physics, whereby the 'SHM in the dimension below' is derived from, the 'infinite UCM,' in the dimension above' is, in actuality, an inverted reflection of the Hermetic law "As Above, So Below. and it is 'built into' the very fabric of this physical world, by the work of the Gnostic and Cosmic Christ!
+
+All is ultimately a Divine Circle with no beginning and no end. Within the human psyche, this appears to be experienced as death and rebirth cycles by those that continue to go deep within themselves, to find those Living Waters, that the Gnostic and Cosmic Christ spoke of, deep within humankind's Collective Unconscious.
+
+Peace, Love & Gnosis,
+
+DarkHorse
+
+All that is needed, is the desire for Truth from deep within one's own Divine self!
+
