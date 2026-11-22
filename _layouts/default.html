@@ -11,14 +11,17 @@
 <div class="page-container">
     <img src="smallhorse.png" class="small-horse" alt="Horse">
     <h1>DarkHorse Ministries</h1> 
-
     {% comment %}
       BACK LINK (top of every page)
-      Dream pages have "section_url: /dreams.html" in their front matter, so they
-      get "Back to Dreams".
-      Various spiritual teachings pages have "section_url: /spiritual-teachings.html"
-      in their front matter, so they get "Back to Various Spiritual Teachings".
-      Every other page gets "Back to Spiritual Experiences".
+      Each page's front matter has a "section_url" line that decides which
+      "Back to" link is shown here:
+      Dream pages: "section_url: /dreams.html" gets "Back to Dreams".
+      Various spiritual teachings pages: "section_url: /spiritual-teachings.html"
+      gets "Back to Various Spiritual Teachings".
+      Spiritual interpretations of physics pages: "section_url: /spiritual-physics.html"
+      gets "Back to Spiritual Interpretations of Physics".
+      GNOSIS pages: "section_url: /gnosis.html" gets "Back to GNOSIS".
+      Every other page (the spiritual experiences) gets "Back to Spiritual Experiences".
       To add another section, copy one of the link lines below and add a matching
       else-if line above it.
     {% endcomment %}
@@ -27,6 +30,10 @@
     <a href="/dreams.html" class="back-link">&larr; Back to Dreams</a>
     {% elsif page.section_url == '/spiritual-teachings.html' %}
     <a href="/spiritual-teachings.html" class="back-link">&larr; Back to Various Spiritual Teachings</a>
+    {% elsif page.section_url == '/spiritual-physics.html' %}
+    <a href="/spiritual-physics.html" class="back-link">&larr; Back to Spiritual Interpretations of Physics</a>
+    {% elsif page.section_url == '/gnosis.html' %}
+    <a href="/gnosis.html" class="back-link">&larr; Back to GNOSIS</a>
     {% else %}
     <a href="spiritual-experiences.html" class="back-link">&larr; Back to Spiritual Experiences</a>
     {% endif %}
