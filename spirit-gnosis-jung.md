@@ -43,7 +43,7 @@ From the standpoint of true gnosis, I claim this:
 
 I know that by making our unconscious conscious, we can return to the certain knowledge that we ARE complete Love, Truth & Joy, by virtue of our inheritance as divine children of God.
 
-I know that it does not matter which revealed spiritual tradition you belong to, or even if you don't follow a particular religion at all, all that has to be done, is to somehow make the unconscious conscious, and so bring the awareness of our divine inheritance into our conscious selves.
+I know that it does not matter which revealed spiritual tradition you belong to, or even if you don't follow a particular religion at all. All that has to be done, is to somehow make the unconscious conscious, and so bring the awareness of our divine inheritance into our conscious selves.
 
 I am DarkHorse and THIS is DarkHorse Ministries! 
 
