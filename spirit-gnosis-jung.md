@@ -20,7 +20,8 @@ On ​Halloween 2005: I intuitively experienced the complete opening of my spiri
 
 ​Then in February 2006: I experienced an uninvited and unexpected baptism in the Holy Spirit --- so God literally showed up and and brought me back to Christianity — anointing me with the Spirit that is teaching me and will continue to teach me all things. Whenever I would meditate afterwards, a tightly-wrapping vortex of this effulgent, uncreated light --- the nous, the eye or window of the soul in hesychast Christianity --- would build up in the center of my chest within thirty seconds. 
 
-See also: [Before Abraham Was, I AM](/before-abe-was-i-am.html)
+See also: [A PENTECOSTAL BAPTISM OF FIRE!](/pentecostal-baptism-of-fire.html)
+
 
 
 ​Then, two years later, following Einstein's Special Relativity to the realization that time is not ultimately real, I prayed John 17:5: 'Father, glorify me with the glory I had with thee before the world was.'  I was then struck by wave after wave of absolute gnostic certainty at the very center of my being that I was here in eternity with God before time began. 
