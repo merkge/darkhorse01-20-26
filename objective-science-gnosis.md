@@ -41,6 +41,7 @@ That same year, I caught my mind under a repetitive mental spell ("I am coming b
 This exposes the ultimate blind spot of standard empiricism: it assumes that objective reality exists only "out there" in the physical world, treating the interior mind as a mere subjective shadow. But when the rational ego is bypassed—whether through ideomotor dynamics, past-memory retrieval, or direct spiritual illumination—the infinite inner world reveals itself. The sacred stories and revelations across all holy books are not merely ancient history; they are timeless dynamics actively repeating within the deepest strata of our shared consciousness. Direct gnosis is not an imagined projection, but the only truly objective knowledge we can possess—an undeniable, lived encounter with the infinite reality dwelling within us all.
 
 Peace, Love & Gnosis,
+
 DarkHorse 
 
 © 2026 DarkHorse Ministries
