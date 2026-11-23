@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Universal Spirituality, Gnosis, and C.G. Jung"
-section_url: /Gnosis.html
+section_url: /gnosis.html
 section_name: Gnosis
 date: 2026-08-11
 categories: essays

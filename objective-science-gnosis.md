@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fallacy of Objective Science & the Primacy of Gnosis"
-section_url: /Gnosis.html
+section_url: /gnosis.html
 section_name: Gnosis
 date: 2026-08-11
 categories: essays
