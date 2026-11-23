@@ -1,4 +1,7 @@
 title: DarkHorse Ministries
 description: Spiritual Recovery
 baseurl: ""
-url: "https://gmedh.github.io"
+url: "https://darkhorseministries.com"
+
+plugins:
+  - jekyll-sitemap
