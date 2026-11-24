@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jesus & Muhammad - Brothers with Us in Eternity"
+title: "The Archetypal Connection between Jung & Ibn 'Arabi Illuminated by Henry Corbin's Mundus Imaginalis"
 section_url: /spiritual-teachings.html
 section_name: Various Spiritual Teachings
 date: 2026-08-19
 categories: essays
 ---
-## The Archetypal Connection between Jung & Ibn 'Arabi Illuminated by Henry Corbin's Mundus Imaginalus
+## The Archetypal Connection between Jung & Ibn 'Arabi Illuminated by Henry Corbin's Mundus Imaginalis
 
 The bridge that connects Ibn 'Arabi's centuries-old mystical insights with Carl Jung’s 20th-century archetypal psychology centers on a radical proposition: the deepest interior truth of a human being can only be accessed through an inner Other, experienced symbolically as the feminine.
 
