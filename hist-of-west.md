@@ -26,6 +26,7 @@ categories: essays
 ​The loss of this cosmological sacredness left humanity spiritually isolated in a universe stripped of intrinsic meaning.
 
 ​Conclusion
+
 ​The Renaissance was less a rescue of human potential and more a foundational fracturing of human consciousness. By trading inward, participatory gnosis and transcendent alignment for secular humanism and rational mastery over a "mechanical" world, it initiated the great modern alienation.
 True progress, from a perennial standpoint, is never found in turning away from the Divine to worship human cleverness, but in remembering the unchanging metaphysical truths that the Renaissance began to leave behind.
 
@@ -35,7 +36,7 @@ Introduction
 
 The rise of modern Western thought is frequently celebrated as a triumph of rational liberation, casting off medieval superstition in favor of empirical rigor. However, when viewed through the perennial philosophy—which recognizes an underlying unity between the spiritual and the physical, the cosmos and the human soul—this historical turn represents a catastrophic fragmentation. The architects of this mechanistic worldview, primarily René Descartes and Isaac Newton, constructed a dualistic prison: Descartes cleaved the human being into a ghost trapped inside a physical machine, while Newton and his contemporaries reduced the living, sacred cosmos into a blind, deterministic clockwork. This combined rupture unleashed a deep moral and existential crisis, setting the stage for the alienation that would consume modern philosophy.
 
- ### The Cartesian Split: The Birth of the Mechanical Body and Disembodied Mind
+### The Cartesian Split: The Birth of the Mechanical Body and Disembodied Mind
 
 In the 17th century, René Descartes established a foundational framework for modern thought known as Cartesian dualism. He asserted that reality is split into two fundamentally different substances:
 Res cogitans: The non-physical, thinking mind.
@@ -50,14 +51,14 @@ Embodied Cognition: Cartesian philosophy treated cognition as an internal mental
 
 Mind and body do not operate as separate entities; rather, they function as a single, continuous, and deeply integrated system.
 
- ### Newton’s Universe: The Disenchantment of the Cosmos
+### Newton’s Universe: The Disenchantment of the Cosmos
 
 While Descartes partitioned the human subject, the Scientific Revolution—fueled by Galileo, Kepler, and culminating in Isaac Newton—transformed the objective macrocosm.
 In the traditional pre-modern and perennial worldview, the universe is a living manifestation of divine principles. Nature is sacramental; physical forms reflect metaphysical realities, and the cosmos is imbued with intrinsic purpose, qualitative value, and sacred order.
 
 The Scientific Revolution systematically stripped nature of its inner meaning. Reality was reduced to what could be measured, weighed, and quantified: matter in motion governed by mathematical laws of blind cause and effect. Qualities were replaced by quantities. The universe ceased to be a temple and became a machine—a vast, deterministic clockwork running independently of any divine or spiritual presence.
 
- ### The Moral Crisis of the Mechanical Universe
+### The Moral Crisis of the Mechanical Universe
 
 This mechanistic reductionism unleashed a devastating philosophical and moral problem that haunts the modern world to this day: the crisis of human agency and freedom. If the entire physical universe—including the human body and brain—is a closed, deterministic machine governed strictly by physical laws of cause and effect, then every human action is strictly predetermined by prior physical states.
 
@@ -73,7 +74,7 @@ The convergence of Cartesian dualism and Newtonian mechanism created a universe 
 Introduction
 If the first chapter of the modern crisis was written by the physical fragmentation of the cosmos—through Cartesian dualism and Newtonian mechanism—the second chapter was played out within the theater of human epistemology. Building directly upon the clockwork universe, David Hume and Immanuel Kant completed the intellectual alienation of the West. Hume acted as the philosophical dynamite that shattered objective causality and dissolved the perennial soul into a fleeting sensory flux. Kant attempted a desperate rescue mission by erecting an impassable barrier between the phenomenal world of human mechanics and the noumenal realm of the divine. Together, they locked human consciousness inside a subjective prison, cutting off the soul's direct, participatory access to absolute truth.
 
- ### David Hume: The Destruction of Causality and the Dissolved Self
+### David Hume: The Destruction of Causality and the Dissolved Self
 
 David Hume is arguably the most explosive and pivotal figure in this historical trajectory. His radical empiricism dismantled the traditional metaphysical framework piece by piece.
 
