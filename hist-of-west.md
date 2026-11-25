@@ -180,7 +180,7 @@ Conclusion
 
 By the time Darwinian materialism captured the Western imagination, the transformation from a sacred, living cosmos to a mechanical accident was complete. For the perennialist, Darwinism represents the apex of modern reductionism—explaining the higher by the lower, and reducing the miracle of consciousness and life to a byproduct of brutal material necessity. With life itself secularized, humanity was left fully untethered, paving the way for existentialism to confront the resulting void of meaning.
 
-The Dissolution of the Inner Citadel: Friedrich Nietzsche and Sigmund Freud
+### The Dissolution of the Inner Citadel: Friedrich Nietzsche and Sigmund Freud
 
 Introduction
 
@@ -188,7 +188,7 @@ Following the mechanistic physics of the Scientific Revolution, the epistemic wa
 
 The final 19th-century blow came from two radical thinkers who penetrated the inner sanctum of human consciousness. Friedrich Nietzsche dismantled the moral and metaphysical foundations of Western civilization, while Sigmund Freud exposed the conscious ego as a fragile illusion driven by hidden, repressed animal drives. Together, Nietzsche and Freud leveled the inner citadel, leaving modern man entirely unmoored.
 
-Friedrich Nietzsche: The Death of God and the Crisis of Nihilism
+### Friedrich Nietzsche: The Death of God and the Crisis of Nihilism
 
 Friedrich Nietzsche was the prophet of the modern spiritual wasteland. Where earlier philosophers quietly chipped away at traditional metaphysics, Nietzsche boldly announced the inevitable consequence: "God is dead. God remains dead. And we have killed him."
 
@@ -204,7 +204,7 @@ The Coming of Nihilism:
 
 Nietzsche recognized that once the West discarded the Christian God, it could not simply keep Western values intact out of sheer habit. The death of God meant the total collapse of objective truth, eternal meaning, and universal morality. He warned that humanity was hurtling toward nihilism, forcing man to either succumb to despair or consciously create his own values as the "Übermensch" (Overman).
 
-Sigmund Freud: Mechanizing the Psyche
+### Sigmund Freud: Mechanizing the Psyche
 
 If Nietzsche dismantled the philosophical and moral architecture of the soul, Sigmund Freud completed the reduction from the scientific side. Freud applied the 19th-century obsession with mechanical cause-and-effect directly to the human mind, founding psychoanalysis.
 
@@ -224,7 +224,7 @@ Conclusion
 
 Nietzsche and Freud represent the final psychological and philosophical excavation of the modern project. Nietzsche exposed the cultural emptiness left by the loss of the transcendent, while Freud mapped the internal machinery of human illusion and neurosis. By reducing the soul to a battleground of biological drives and cultural repressions, they completed the interior evacuation of the human being. With both the heavens emptied (Nietzsche) and the inner depths psychologized (Freud), the individual was left entirely isolated—setting the stage for existentialism to confront the final, silent void.
 
-Existentialism: The Agony of the Abandoned Self
+### Existentialism: The Agony of the Abandoned Self
 
 Introduction
 
