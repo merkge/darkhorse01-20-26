@@ -116,7 +116,7 @@ Introduction
 
 The trajectory of modern philosophy from Descartes through Kant left humanity trapped in a state of profound alienation. Nature had become a dead clockwork (Newton), reality had been locked behind an impenetrable epistemic veil (Kant), and life itself had been reduced to a blind struggle for survival (Darwin). Into this spiritual vacuum stepped Georg Wilhelm Friedrich Hegel, who attempted to heal the modern fracture by reintroducing a grand, unifying vision of history. Yet, his solution was quickly inverted by his most radical disciple, Karl Marx. Together, Hegel and Marx represent the moment the West attempted to rescue meaning through history, only to anchor it firmly in the mud of material production.
 
-Hegel: Historicizing the Absolute
+### Hegel: Historicizing the Absolute
 
 Before Hegel, traditional metaphysics viewed truth, the divine, and the Absolute as static, eternal, and unchanging realms waiting to be contemplated by a timeless human soul. Kant had shattered humanity's ability to reach that eternal realm, leaving the mind isolated in its own subjective categories.
 Hegel’s radical move was to temporalize the Absolute. He argued that the Ultimate Reality—which he called Geist (Spirit)—is not static, but is actually a dynamic, evolving process.
@@ -128,7 +128,7 @@ Self-Realization through History:
  According to Hegel, God or Spirit does not exist outside of history, watching from above. Instead, Spirit wakes up to itself through human consciousness, culture, and historical struggle. Humanity is the mechanism by which the universe achieves self-awareness.
 On the surface, Hegel sounds deeply spiritual. However, by turning the eternal God into an evolving historical process, he laid the groundwork for historicism. If truth changes and evolves with the times, then eternal verities disappear, replaced by whatever the current historical epoch happens to synthesize.
 
-Marx: The Materialist Inversion
+### Marx: The Materialist Inversion
 
 Karl Marx was deeply shaped by Hegel’s dialectical framework—the idea that history moves forward through fierce contradictions and revolutionary leaps. But Marx famously declared that he found Hegel's philosophy "standing on its head" and turned it "right side up."
 
@@ -149,7 +149,7 @@ Conclusion
 
 Hegel tried to save the soul of the West by making history itself divine, but he dissolved eternity into time. Marx took that historicism and stripped away even the illusion of Spirit, leaving humanity bound entirely to the material machinery of production and power. Together, Hegel and Marx set the stage for the 20th century—transforming philosophical idealism into socio-political revolution and completing the secularization of human destiny.
 
-The Darwinian Blow: Biological Materialism and the Death of Teleology
+### The Darwinian Blow: Biological Materialism and the Death of Teleology
 
 Introduction
 
