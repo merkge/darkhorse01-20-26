@@ -91,7 +91,7 @@ Setting the Trap for Kant
 
 Hume’s radical empiricism led directly to pure skepticism: because we can only ever know our immediate sensory impressions, we can never logically prove the existence of the external world, the soul, or God. It was precisely this Humean skepticism that woke Immanuel Kant from his "dogmatic slumber." However, rather than refuting Hume by restoring the higher intellect (Intellectus) and metaphysical intuition, Kant accepted Hume's premise that discursive reason could not reach beyond sensory experience. Kant merely locked that skepticism into a systemic architecture.
 
- ### Kant’s Great Partition: The Noumenal and Phenomenal Split
+### Kant’s Great Partition: The Noumenal and Phenomenal Split
 
 Immanuel Kant’s critical project is frequently celebrated in mainstream philosophy for rescuing epistemology, but through the lens of the perennial philosophy, it represents a profound spiritual contraction. 
 
